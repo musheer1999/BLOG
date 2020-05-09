@@ -1,4 +1,4 @@
-whole project is still to be uploaded on heroku only fronend is uploaded here.
+whole project is still to be uploaded on heroku only fronend is uploaded here : https://musheer1999.github.io/BLOG/.
 
 backend is running on localhost screenshots are uploaded below.
 
